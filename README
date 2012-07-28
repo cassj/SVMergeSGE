@@ -1,0 +1,2 @@
+Modify SVMerge to generate SGE commands rather than LSF commands so she could run the variant callers over the cluster.
+
